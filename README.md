@@ -1,3 +1,3 @@
-# pretVA-backend-Api
+# pretVA-backend-API
 
-[Heroku](https://morning-bayou-46861.herokuapp.com/api/products/all)
+Backend for pretVA sample site.
